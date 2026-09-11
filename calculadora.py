@@ -11,3 +11,9 @@ def subtracao(num1, num2):
     return subtracao
 
 print("Resultado da subtracao: ", subtracao(5, 3))
+
+def divisão(num1, num2):
+    divisao = num1 / num2
+    return divisao
+
+print("Resultado da divisão: ", divisão(5, 3))
