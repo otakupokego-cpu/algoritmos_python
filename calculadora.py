@@ -17,3 +17,9 @@ def divisão(num1, num2):
     return divisao
 
 print("Resultado da divisão: ", divisão(5, 3))
+
+def multiplicacao(num1, num2):
+    multiplicacao = num1 * num2
+    return multiplicacao
+
+print("Resultado da multiplicacao: ", multiplicacao(5, 3))
